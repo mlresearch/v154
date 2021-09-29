@@ -20,13 +20,15 @@ issn: 2640-3498
 id: LIDTA2021
 month: 0
 cycles: false
-bibtex_editor: Moniz, Nuno and Branco, Paula and Japkowicz, Nathalie and Wo\'zniak,
+bibtex_editor: Moniz, Nuno and Branco, Paula and Torgo, Luis and Japkowicz, Nathalie and Wo\'zniak,
   Micha\l and Wang, Shuo
 editor:
 - given: Nuno
   family: Moniz
 - given: Paula
   family: Branco
+- given: Luis
+  family: Torgo
 - given: Nathalie
   family: Japkowicz
 - given: Michał
@@ -43,6 +45,7 @@ description: |
   Volume Edited by:
     Nuno Moniz
     Paula Branco
+    Luis Torgo
     Nathalie Japkowicz
     Michał Woźniak
     Shuo Wang
